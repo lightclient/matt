@@ -1,0 +1,11 @@
+[package]
+name = "matt"
+version = "0.0.0"
+authors = ["Matt Garnett <14004106+lightclient@users.noreply.github.com>"]
+license = "MIT"
+description = "My resume. Please contact me if you have a legitimate use for this crate name."
+repository = "https://github.com/lightclient/matt"
+category = ["visualization"]
+edition = "2018"
+
+[dependencies]
